@@ -1,4 +1,6 @@
-### Hi there 👋
+### I do some coding from time to time.
+
+~~Sruggling~~ Studying computer science and engineering at Chalmers University of Technology.
 
 <!--
 **Malmz/Malmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
